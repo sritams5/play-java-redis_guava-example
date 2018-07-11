@@ -1,0 +1,13 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET     /                           controllers.HomeController.index(agent ?= "DESKTOP")
+GET     /product/:prd                           controllers.HomeController.products(prd: String)
+GET     /stats                           controllers.HomeController.stats
+GET     /products/:productName           controllers.ProductsController.getProducts(productName: String)
+
+
+
+

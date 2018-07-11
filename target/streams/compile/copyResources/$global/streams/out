@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\shamodi\Downloads\workspace\play-java-redis_guava-example\conf\application.conf,C:\Users\shamodi\Downloads\workspace\play-java-redis_guava-example\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\shamodi\Downloads\workspace\play-java-redis_guava-example\conf\logback.xml,C:\Users\shamodi\Downloads\workspace\play-java-redis_guava-example\target\scala-2.11\classes\logback.xml)
+[debug] 	(C:\Users\shamodi\Downloads\workspace\play-java-redis_guava-example\conf\routes,C:\Users\shamodi\Downloads\workspace\play-java-redis_guava-example\target\scala-2.11\classes\routes)
